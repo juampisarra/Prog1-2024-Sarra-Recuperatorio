@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|c:\\users\\juamp\\onedrive\\escritorio\\segundo a\u00F1o\\sublime\\prog1-2024-sarra-recuperatorio\\trenesservice\\trenesservice\\administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|solutionrelative:trenesservice\\administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDD4356-B042-4364-ABEC-4FED5A743B07}|TrenesServiceTest\\TrenesServiceTest.csproj|c:\\users\\juamp\\onedrive\\escritorio\\segundo a\u00F1o\\sublime\\prog1-2024-sarra-recuperatorio\\trenesservice\\trenesservicetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDD4356-B042-4364-ABEC-4FED5A743B07}|TrenesServiceTest\\TrenesServiceTest.csproj|solutionrelative:trenesservicetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|c:\\users\\juamp\\onedrive\\escritorio\\segundo a\u00F1o\\sublime\\prog1-2024-sarra-recuperatorio\\trenesservice\\trenesservice\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|solutionrelative:trenesservice\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|c:\\users\\juamp\\onedrive\\escritorio\\segundo a\u00F1o\\sublime\\prog1-2024-sarra-recuperatorio\\trenesservice\\trenesservice\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|solutionrelative:trenesservice\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|c:\\users\\juamp\\onedrive\\escritorio\\segundo a\u00F1o\\sublime\\prog1-2024-sarra-recuperatorio\\trenesservice\\trenesservice\\pasajerovip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|solutionrelative:trenesservice\\pasajerovip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|c:\\users\\juamp\\onedrive\\escritorio\\segundo a\u00F1o\\sublime\\prog1-2024-sarra-recuperatorio\\trenesservice\\trenesservice\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|solutionrelative:trenesservice\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|c:\\users\\juamp\\onedrive\\escritorio\\segundo a\u00F1o\\sublime\\prog1-2024-sarra-recuperatorio\\trenesservice\\trenesservice\\tren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|solutionrelative:trenesservice\\tren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|c:\\users\\juamp\\onedrive\\escritorio\\segundo a\u00F1o\\sublime\\prog1-2024-sarra-recuperatorio\\trenesservice\\trenesservice\\enumtipociudadfin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|solutionrelative:trenesservice\\enumtipociudadfin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|c:\\users\\juamp\\onedrive\\escritorio\\segundo a\u00F1o\\sublime\\prog1-2024-sarra-recuperatorio\\trenesservice\\trenesservice\\enumtipociudadinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F312FF-3302-4EAB-A084-5F63F09A48CA}|TrenesService\\TrenesService.csproj|solutionrelative:trenesservice\\enumtipociudadinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resultado.cs",
+              "DocumentMoniker": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\Resultado.cs",
+              "RelativeDocumentMoniker": "TrenesService\\Resultado.cs",
+              "ToolTip": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\Resultado.cs",
+              "RelativeToolTip": "TrenesService\\Resultado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:05:21.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesServiceTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TrenesServiceTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesServiceTest\\UnitTest1.cs",
+              "RelativeToolTip": "TrenesServiceTest\\UnitTest1.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAawEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:44:51.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnumTipoCiudadFin.cs",
+              "DocumentMoniker": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\EnumTipoCiudadFin.cs",
+              "RelativeDocumentMoniker": "TrenesService\\EnumTipoCiudadFin.cs",
+              "ToolTip": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\EnumTipoCiudadFin.cs",
+              "RelativeToolTip": "TrenesService\\EnumTipoCiudadFin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:30:19.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnumTipoCiudadInicio.cs",
+              "DocumentMoniker": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\EnumTipoCiudadInicio.cs",
+              "RelativeDocumentMoniker": "TrenesService\\EnumTipoCiudadInicio.cs",
+              "ToolTip": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\EnumTipoCiudadInicio.cs",
+              "RelativeToolTip": "TrenesService\\EnumTipoCiudadInicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:29:06.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasajeroVIP.cs",
+              "DocumentMoniker": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\PasajeroVIP.cs",
+              "RelativeDocumentMoniker": "TrenesService\\PasajeroVIP.cs",
+              "ToolTip": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\PasajeroVIP.cs",
+              "RelativeToolTip": "TrenesService\\PasajeroVIP.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:08:51.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pasajero.cs",
+              "DocumentMoniker": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\Pasajero.cs",
+              "RelativeDocumentMoniker": "TrenesService\\Pasajero.cs",
+              "ToolTip": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\Pasajero.cs",
+              "RelativeToolTip": "TrenesService\\Pasajero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:07:38.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Viaje.cs",
+              "DocumentMoniker": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\Viaje.cs",
+              "RelativeDocumentMoniker": "TrenesService\\Viaje.cs",
+              "ToolTip": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\Viaje.cs",
+              "RelativeToolTip": "TrenesService\\Viaje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:04:25.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tren.cs",
+              "DocumentMoniker": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\Tren.cs",
+              "RelativeDocumentMoniker": "TrenesService\\Tren.cs",
+              "ToolTip": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\Tren.cs",
+              "RelativeToolTip": "TrenesService\\Tren.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:02:59.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Administracion.cs",
+              "DocumentMoniker": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\Administracion.cs",
+              "RelativeDocumentMoniker": "TrenesService\\Administracion.cs",
+              "ToolTip": "C:\\Users\\juamp\\OneDrive\\Escritorio\\Segundo A\u00F1o\\Sublime\\Prog1-2024-Sarra-Recuperatorio\\TrenesService\\TrenesService\\Administracion.cs",
+              "RelativeToolTip": "TrenesService\\Administracion.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:02:09.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

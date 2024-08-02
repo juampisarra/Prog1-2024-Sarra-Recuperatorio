@@ -1,0 +1,12 @@
+C:\Users\juamp\OneDrive\Escritorio\Segundo Año\Sublime\Prog1-2024-Sarra-Recuperatorio\TrenesService\TrenesService\bin\Debug\net7.0\TrenesService.deps.json
+C:\Users\juamp\OneDrive\Escritorio\Segundo Año\Sublime\Prog1-2024-Sarra-Recuperatorio\TrenesService\TrenesService\bin\Debug\net7.0\TrenesService.dll
+C:\Users\juamp\OneDrive\Escritorio\Segundo Año\Sublime\Prog1-2024-Sarra-Recuperatorio\TrenesService\TrenesService\bin\Debug\net7.0\TrenesService.pdb
+C:\Users\juamp\OneDrive\Escritorio\Segundo Año\Sublime\Prog1-2024-Sarra-Recuperatorio\TrenesService\TrenesService\obj\Debug\net7.0\TrenesService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juamp\OneDrive\Escritorio\Segundo Año\Sublime\Prog1-2024-Sarra-Recuperatorio\TrenesService\TrenesService\obj\Debug\net7.0\TrenesService.AssemblyInfoInputs.cache
+C:\Users\juamp\OneDrive\Escritorio\Segundo Año\Sublime\Prog1-2024-Sarra-Recuperatorio\TrenesService\TrenesService\obj\Debug\net7.0\TrenesService.AssemblyInfo.cs
+C:\Users\juamp\OneDrive\Escritorio\Segundo Año\Sublime\Prog1-2024-Sarra-Recuperatorio\TrenesService\TrenesService\obj\Debug\net7.0\TrenesService.csproj.CoreCompileInputs.cache
+C:\Users\juamp\OneDrive\Escritorio\Segundo Año\Sublime\Prog1-2024-Sarra-Recuperatorio\TrenesService\TrenesService\obj\Debug\net7.0\TrenesService.sourcelink.json
+C:\Users\juamp\OneDrive\Escritorio\Segundo Año\Sublime\Prog1-2024-Sarra-Recuperatorio\TrenesService\TrenesService\obj\Debug\net7.0\TrenesService.dll
+C:\Users\juamp\OneDrive\Escritorio\Segundo Año\Sublime\Prog1-2024-Sarra-Recuperatorio\TrenesService\TrenesService\obj\Debug\net7.0\refint\TrenesService.dll
+C:\Users\juamp\OneDrive\Escritorio\Segundo Año\Sublime\Prog1-2024-Sarra-Recuperatorio\TrenesService\TrenesService\obj\Debug\net7.0\TrenesService.pdb
+C:\Users\juamp\OneDrive\Escritorio\Segundo Año\Sublime\Prog1-2024-Sarra-Recuperatorio\TrenesService\TrenesService\obj\Debug\net7.0\ref\TrenesService.dll

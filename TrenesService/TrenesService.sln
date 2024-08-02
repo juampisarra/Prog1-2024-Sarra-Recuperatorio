@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrenesService", "TrenesService\TrenesService.csproj", "{67F312FF-3302-4EAB-A084-5F63F09A48CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrenesServiceTest", "TrenesServiceTest\TrenesServiceTest.csproj", "{9CDD4356-B042-4364-ABEC-4FED5A743B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F312FF-3302-4EAB-A084-5F63F09A48CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F312FF-3302-4EAB-A084-5F63F09A48CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F312FF-3302-4EAB-A084-5F63F09A48CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F312FF-3302-4EAB-A084-5F63F09A48CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CDD4356-B042-4364-ABEC-4FED5A743B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDD4356-B042-4364-ABEC-4FED5A743B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDD4356-B042-4364-ABEC-4FED5A743B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDD4356-B042-4364-ABEC-4FED5A743B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2EF0861-34F9-4A2A-A055-FB9D6C6801F5}
+	EndGlobalSection
+EndGlobal
