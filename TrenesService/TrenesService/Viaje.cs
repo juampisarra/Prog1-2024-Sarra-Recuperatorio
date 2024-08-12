@@ -22,6 +22,7 @@ namespace TrenesService
 
         public List<Pasajero> Pasajeros {  get; set; }
 
+        //CORRECCION: MAL FORMATEADO
             public Viaje()
         {
             Pasajeros = new List<Pasajero>();

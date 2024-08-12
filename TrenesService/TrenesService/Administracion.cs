@@ -20,6 +20,7 @@
                 ValorBoleto = importe,
                
                 
+                //CORRECCION: MAL FORMATEADO
                 
             };
 
@@ -41,6 +42,7 @@
             };
 
 
+            //SE PUEDE USAR LA MISMA VARIABLE OBTENIDA EN LA LINEA 33
             Viajes.FirstOrDefault(x=>x.NumUnicoViaje == NumViaje).TotalRecaudado += (viaje.ValorBoleto * pasajero.CalcularDescuento()) / 100;
 
                 
